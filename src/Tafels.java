@@ -1,6 +1,13 @@
+import java.util.Scanner;
+
 public class Tafels {
+
     public static void main(String[] args) {
-        System.out.println("Hello moto");
-        System.out.println("gaat het werken");
+        Scanner in = new Scanner(System.in);
+        System.out.println("Voer getal in: ");
+        int n = in .nextInt();
+        for (int i = 1; i <= 10; i++) {
+            System.out.println(n + "*" + i + " = " + (n * i));
+        }
     }
 }
