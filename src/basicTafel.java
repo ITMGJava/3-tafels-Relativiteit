@@ -1,3 +1,4 @@
+//Meest simpele versie om een tafel te genereren maar wel te veel moeite 10
 public class basicTafel {
     public static void main(String[] args) {
         System.out.println("This program will will mutiply with a base number with range 10 " +
