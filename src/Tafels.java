@@ -1,3 +1,4 @@
+//Small changes
 import java.util.Scanner;
 
 public class Tafels {
