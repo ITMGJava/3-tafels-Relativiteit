@@ -1,4 +1,4 @@
-//Klein programma om een
+//Klein programma met input grondgetal en gewenste range
 import java.util.Scanner;
 public class tafelsInputRange{
     public static void main(String [] args){
