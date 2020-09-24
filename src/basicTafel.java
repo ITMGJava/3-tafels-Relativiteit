@@ -2,7 +2,7 @@
 public class basicTafel {
     public static void main(String[] args) {
         System.out.println("This program will will mutiply with a base number with range 10 " +
-                "funny to see how to do it without a for loop!");
+                "funny to see how to do it without a for loop! But can it be done worse??");
         var grondtal = 93;
 
 
