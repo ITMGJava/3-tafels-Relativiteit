@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Tafels {
 
-    public static void main(String[] args) {
+    public static void main(String [] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Voer getal in om een tafel te genereren" +
                 "met een range van van 1 tot 10!: ");
