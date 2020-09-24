@@ -1,3 +1,4 @@
+//program showing lenght of words
 package strings;
 
 public class Stringvb {
