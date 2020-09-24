@@ -5,19 +5,23 @@ public class basicTafel {
         var grondtal = 93;
 
 
-        System.out.println(grondtal);
-        grondtal = grondtal * 1;
-        grondtal = grondtal * 2;
-        grondtal = grondtal * 3;
-        grondtal = grondtal * 4;
-        grondtal = grondtal * 5;
-        grondtal = grondtal * 6;
-        grondtal = grondtal * 7;
-        grondtal = grondtal * 8;
-        grondtal = grondtal * 9;
-        grondtal = grondtal * 10;
-        System.out.println(grondtal);
+        System.out.println(grondtal*1);
 
+        System.out.println(grondtal*2);
+
+        System.out.println(grondtal*3);
+
+        System.out.println(grondtal*5);
+
+        System.out.println(grondtal*6);
+
+        System.out.println(grondtal*7);
+
+        System.out.println(grondtal*8);
+
+        System.out.println(grondtal*9);
+
+        System.out.println(grondtal*10);
 
     }
 }
