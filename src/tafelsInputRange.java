@@ -1,3 +1,4 @@
+//Klein programma om een
 import java.util.Scanner;
 public class tafelsInputRange{
     public static void main(String [] args){
